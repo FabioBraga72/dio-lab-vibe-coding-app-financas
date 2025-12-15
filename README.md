@@ -35,6 +35,7 @@ Crie um App de Finanças Pessoais com base no seguinte PRD (Product Requirements
 
 Resultado Final no Lovable: https://talk-my-cents.lovable.app
 
+<img width="1359" height="635" alt="image" src="https://github.com/user-attachments/assets/5d1231d6-8249-42ed-9836-48b01b012777" />
 
 
 📱 FinançasFácil — Resumo das Funcionalidades
