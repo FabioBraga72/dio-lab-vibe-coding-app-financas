@@ -35,7 +35,8 @@ Crie um App de Finanças Pessoais com base no seguinte PRD (Product Requirements
 
 Resultado Final no Lovable: https://talk-my-cents.lovable.app
 
-image
+
+
 📱 FinançasFácil — Resumo das Funcionalidades
 
 🎯 Visão Geral O FinançasFácil é um aplicativo de organização financeira baseado em interação conversacional, projetado para substituir planilhas e formulários por uma experiência simples, acessível e personalizada. Ele segue princípios de Design Universal, garantindo usabilidade para pessoas com diferentes perfis, habilidades e necessidades.
